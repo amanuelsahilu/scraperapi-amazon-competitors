@@ -1,0 +1,6 @@
+huggingface-hub
+langchain-openai
+openai
+python-dotenv
+streamlit
+torchvision
